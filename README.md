@@ -1,2 +1,2 @@
 # FiftyDaysDP
-challege to imporove DP problems 
+challenge to improve DP problem-solving skill 
