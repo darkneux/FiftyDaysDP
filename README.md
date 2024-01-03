@@ -1,2 +1,2 @@
 # FiftyDaysDP
-challenge to improve Dynamic Programming problem-solving skill
+Challenge to improve Dynamic Programming problem-solving skill
